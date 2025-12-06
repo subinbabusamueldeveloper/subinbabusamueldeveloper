@@ -13,24 +13,24 @@
 
 ---
 
-# 👋 Hello, I'm **Subin Babu**
-### 🎯 *Senior Android Developer | Kotlin • Jetpack Compose • Clean Architecture*
+## Hello, I'm **Subin Babu**
+#### 🎯 *Senior Android Developer | Kotlin • Jetpack Compose • Clean Architecture*
 
-Senior Android Developer with **9+ years** of experience delivering scalable, secure, and high-performance mobile applications. I specialise in **Kotlin**, **Jetpack Compose**, **IoT communication layers (BLE, MQTT, gRPC, AIDL)**, and **Clean Architecture**.
+Senior Android Developer with **10 years** of experience delivering scalable, secure, and high-performance mobile applications. I specialise in **Kotlin**, **Jetpack Compose**, **IoT communication layers (BLE, MQTT, gRPC, AIDL)**, and **Clean Architecture**.
 
-I build real-time, cloud-integrated Android systems with a focus on **performance, security, testability, and clean code**.
+I build real-time, cloud-integrated Android systems with a focus on **performance, security, testability, and clean code** — using **Coroutines & Flow**, **Hilt**, and **feature-based modular architectures**.
 
 ---
 
-# 🎨 Tech Stack
+## Tech Stack
 
-### 🟦 **Languages & Core**
+#### 🟦 **Languages & Core**
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🟪 **Android Development**
+#### 🟪 **Android Development**
 <p>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Material%20Design%203-673AB7?style=for-the-badge"/>
@@ -39,7 +39,7 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
   <img src="https://img.shields.io/badge/Flow-5C6BC0?style=for-the-badge&logo=kotlin"/>
 </p>
 
-### 🟩 **Networking & Data**
+#### 🟩 **Networking & Data**
 <p>
   <img src="https://img.shields.io/badge/Retrofit-007EC6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Room-FF5722?style=for-the-badge"/>
@@ -51,7 +51,7 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
   <img src="https://img.shields.io/badge/BLE-3DDC84?style=for-the-badge&logo=bluetooth&logoColor=white"/>
 </p>
 
-### 🟧 **Testing & Quality**
+#### 🟧 **Testing & Quality**
 <p>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Espresso-795548?style=for-the-badge"/>
@@ -59,7 +59,7 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
   <img src="https://img.shields.io/badge/TDD-000000?style=for-the-badge"/>
 </p>
 
-### 🟨 **CI/CD & Cloud**
+#### 🟨 **CI/CD & Cloud**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions"/>
@@ -71,13 +71,13 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
 
 ---
 
-# 🕰 **My Tech Journey**
+### 🕰 **My Tech Journey**
 
 <p align="center">
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="240" />
 </p>
 
-```
+```text
 2015–2017  | Android (Java), XML UI, Firebase, Ionic Hybrid Apps  
 2017–2019  | Kotlin, Room DB, REST APIs, CI/CD, Material Design  
 2019–2021  | gRPC, Payment SDKs, Flight Booking Platforms, Custom Components  
@@ -87,9 +87,9 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
 
 ---
 
-# 💼 **Experience**
+## 💼 **Experience**
 
-## 🟦 Gadgeon Smart Systems — *Senior Android Engineer*  
+### 🟦 Gadgeon Smart Systems — *Senior Android Engineer*  
 📅 **Oct 2021 – May 2025**
 
 - Migrated healthcare IoT platform to **Clean Architecture (MVVM + Hilt)** → reduced technical debt **35%**  
@@ -101,7 +101,7 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
 
 ---
 
-## 🟪 Hopes Coding (Tathkarah) — *Senior Android Developer*  
+### 🟪 Hopes Coding (Tathkarah) — *Senior Android Developer*  
 📅 **Oct 2019 – Oct 2021**
 
 - Integrated **gRPC** for flight-booking systems → **40% reduced payload**  
@@ -110,7 +110,7 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
 
 ---
 
-## 🟩 SectorQube — *Senior Android Developer*  
+### 🟩 SectorQube — *Senior Android Developer*  
 📅 **Dec 2017 – Oct 2019**
 
 - Developed scalable e-commerce apps using Kotlin + Retrofit + Clean Architecture  
@@ -119,7 +119,7 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
 
 ---
 
-## 🟧 Freelance — *Android Developer*  
+### 🟧 Freelance — *Android Developer*  
 📅 **Jan 2017 – Dec 2017**
 
 - Built offline-first apps using Room DB + safe migrations  
@@ -129,7 +129,7 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
 
 ---
 
-## 🟨 Artificers Technologies — *Mobile Application Developer*  
+### 🟨 Artificers Technologies — *Mobile Application Developer*  
 📅 **Aug 2015 – Jan 2017**
 
 - Native Android (Java) + Hybrid Ionic/Cordova/Capacitor apps  
@@ -138,25 +138,33 @@ I build real-time, cloud-integrated Android systems with a focus on **performanc
 
 ---
 
-# 🚀 Featured Project — **Quilter (Book App)**  
+## 🚀 Featured Project — **OpenLibrary Book List App**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="260" />
-</p>
+A modern Android app that consumes the **OpenLibrary API** and turns reading logs into a clean, reactive book-list experience.
 
-A modern Android app built using:  
-✔ Kotlin  
-✔ Jetpack Compose  
-✔ MVVM + Clean Architecture  
-✔ Retrofit + Moshi  
-✔ Hilt  
-✔ Coroutines + Flow  
+Built with:
 
-🔗 **https://github.com/subinbabusamueldeveloper/quilter**
+- 📱 **Jetpack Compose + Material 3**  
+- 🧠 **MVVM + Clean Architecture** (Presentation / Domain / Data)  
+- 🧵 **Kotlin Coroutines & Flow** with `StateFlow<BookListUiState>`  
+- 💉 **Hilt** for dependency injection  
+- 🌐 **Retrofit + Moshi + OkHttp** for networking  
+- 🖼 **Coil** for book cover loading  
+
+**Highlights:**
+
+- Categorised reading lists: **Want to Read**, **Currently Reading**, **Already Read**  
+- Bottom sheet book details (cover, title, author, first published year, logged date)  
+- Repository returning `Flow<Resource<List<Book>>>` with a centralised `safeApiCall` wrapper  
+- Clear **unidirectional data flow**: UI → ViewModel → UseCase → Repository → API  
+- Feature-based structure under `feature_book_list` with separate `data`, `domain`, `presentation` layers  
+
+🔗 **Repo:**  
+https://github.com/subinbabusamueldeveloper/openlibrary-book-list  
 
 ---
 
-# 🏆 Awards
+## 🏆 Awards
 
 - 🏅 Standing Ovation Award – Gadgeon Smart Systems  
 - 🏅 Best Team Award (Two consecutive years)  
