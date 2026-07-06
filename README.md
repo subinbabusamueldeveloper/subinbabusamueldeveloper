@@ -138,8 +138,6 @@ My earlier mobile experience also included native Android development using Java
 
 ## GitHub Activity
 
-## GitHub Activity
-
 Most of my professional Android work was delivered through private company
 and client repositories. My public GitHub reflects my recent independent
 projects and continued hands-on Android development.
