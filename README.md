@@ -136,6 +136,33 @@ My earlier mobile experience also included native Android development using Java
 
 ---
 
+## GitHub Activity
+
+Most of my professional Android work was delivered through private company and client repositories. My public GitHub reflects my recent independent projects and continued hands-on Android development.
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=subinbabu-dev&show_icons=true&hide_border=true&theme=transparent"
+    height="165"
+    alt="Subin Babu's GitHub statistics"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=subinbabu-dev&hide_border=true&theme=transparent"
+    height="165"
+    alt="Subin Babu's GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=subinbabu-dev&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="Subin Babu's GitHub contribution activity"
+  />
+</p>
+
+---
+
 ## Featured Android Projects
 
 ### RolePath — Android Job Application and Interview Tracker
