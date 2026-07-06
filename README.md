@@ -144,6 +144,10 @@ Most of my professional Android work was delivered through private company
 and client repositories. My public GitHub reflects my recent independent
 projects and continued hands-on Android development.
 
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=subinbabu-dev&hide_border=true&theme=transparent" height="165" alt="Subin Babu's GitHub contribution streak" /> 
+</p>
+
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=subinbabu-dev&show_icons=true&hide_border=true&theme=github_dark"
