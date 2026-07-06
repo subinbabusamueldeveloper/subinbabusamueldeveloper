@@ -150,14 +150,6 @@ projects and continued hands-on Android development.
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=subinbabu-dev&show_icons=true&hide_border=true&theme=github_dark"
-    height="165"
-    alt="Subin Babu's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=subinbabu-dev&theme=github-compact&hide_border=true&area=true"
     width="100%"
     alt="Subin Babu's GitHub contribution activity"
